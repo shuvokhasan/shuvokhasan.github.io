@@ -1,8 +1,8 @@
-@media (max-width: 768px){
-    body{
-        overflow: hidden;
-    }
+body{
+    overflow: hidden;
+}
 
+@media (max-width: 768px){
     .nav-div{
         position: relative;
         /* overflow: hidden; */
