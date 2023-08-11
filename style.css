@@ -18,7 +18,7 @@ body{
     width: 100%;
     overflow: hidden;
     transition: translate .3s;
-    translate: 1000px;
+    translate: -1000px;
     z-index: 1000;
     }
 
